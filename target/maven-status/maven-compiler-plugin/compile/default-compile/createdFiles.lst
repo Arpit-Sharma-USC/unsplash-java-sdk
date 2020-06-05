@@ -1,0 +1,16 @@
+model\Exif.class
+util\Constants.class
+model\Link.class
+unsplash\PhotosClient.class
+model\Photo.class
+util\ParameterStringBuilder.class
+util\PlatformUtils.class
+model\Location.class
+enums\RequestMethod.class
+unsplash\CollectionsClient.class
+model\Position.class
+model\URL.class
+unsplash\UnsplashClient.class
+model\Collection.class
+exceptions\RequiredParameterException.class
+model\User.class
